@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By —͟͟͞͞𝐒𝐂𝐎𝐓𝐓 𝙇𝙄𝙂𝙃𝙏 𝙆𝙄𝙍𝘼✖",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --𝙆𝙄𝙍𝘼-𝙈𝘿-𝙑1",
+    "start": "pm2 start index.js --deep-monitoring --attach --name 𝙆𝙄𝙍𝘼-𝙈𝘿-𝙑1",
     "stop": "pm2 stop 𝙆𝙄𝙍𝘼-𝙈𝘿-𝙑1",
     "restart": "pm2 restart 𝙆𝙄𝙍𝘼-𝙈𝘿-𝙑1"
   },
