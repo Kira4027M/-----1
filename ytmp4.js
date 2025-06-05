@@ -50,7 +50,7 @@ cmd({
             `🎞 *Reply with your choice:*\n` +
             `2.1 *Video Type* 🎬\n` +
             `2.2 *Document Type* 📁\n\n` +
-            `${config.FOOTER || "> *made in by —͟͟͞͞𝐒𝐂𝐎𝐓𝐓 𝙇𝙄𝙂𝙃𝙏 𝙆𝙄𝙍𝘼✖*"}`;
+            `${config.FOOTER || "> *MADE IN BY —͟͟͞͞𝐒𝐂𝐎𝐓𝐓 𝙇𝙄𝙂𝙃𝙏 𝙆𝙄𝙍𝘼✖ 💫*"}`;
 
         const sentMsg = await conn.sendMessage(from, { image: { url: image }, caption: info }, { quoted: mek });
         const messageID = sentMsg.key.id;
